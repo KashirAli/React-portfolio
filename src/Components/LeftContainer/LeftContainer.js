@@ -67,9 +67,9 @@ function LeftContainer({show,setShow}) {
             </div>
           </div>
           <div className="left-bottom">
-            <div><i class="fab fa-twitter"></i></div>
-            <div><i class="fab fa-github"></i></div>
-            <div><i class="fab fa-linkedin-in"></i></div>
+            <div><a href="https://twitter.com/KashirA45510625" target="_blank"><i class="fab fa-twitter"></i></a></div>
+            <div><a href="https://github.com/KashirAli" target="_blank"><i class="fab fa-github"></i></a></div>
+            <div><a href="https://www.linkedin.com/in/kashirali" target="_blank"><i class="fab fa-linkedin-in"></i></a></div>
          
           </div>
         </div>
